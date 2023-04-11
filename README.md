@@ -56,7 +56,7 @@ Once MySQL is installed, create a database for your student management system. Y
 
 Install Netbeans:
 
-You can download and install Spring Boot from the official website. Follow the instructions for your operating system to complete the installation process.
+You can download and install netbeans from the official website. Follow the instructions for your operating system to complete the installation process.
 
 Create a Netbeans project:
 
