@@ -30,71 +30,72 @@ Banking management system
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+This application is built using the follwing technology:
+
+Netbeans 
+MySQL
+Java Swing 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+The system can also be used by bank employees to perform tasks such as opening new accounts, closing accounts, processing deposits and withdrawals, transferring funds, and generating reports. Additionally, the system can provide customers with access to their account information, allowing them to view their balances, transaction history, and perform basic banking tasks such as transferring funds and paying bills online.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+Before we begin, make sure you have the following software installed on your computer:
 
-```
-Give examples
-```
+Netbeans
+MYSQL server
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+Install MySQL:
 
-```
-Give the example
-```
+You can download and install MySQL from the official website. Follow the instructions for your operating system to complete the installation process.
+Create a database:
 
-And repeat
+Once MySQL is installed, create a database for your student management system. You can use the MySQL command-line interface or a GUI tool like MySQL Workbench to create a new database.
 
-```
-until finished
-```
+Install Netbeans:
 
-End with an example of getting some data out of the system or using it for a little demo.
+You can download and install Spring Boot from the official website. Follow the instructions for your operating system to complete the installation process.
 
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+Create a Netbeans project:
 
-### Break down into end to end tests
-Explain what these tests test and why
+Create a new netbeans project using your favorite IDE . You can use the netbeans Initializr to create a basic project structure with the necessary.
 
-```
-Give an example
-```
+Connect to MySQL:
 
-<<<<<<< HEAD
+MySQl connect with add help of  libray add jar file 
+
+Running test :
+Start both the netbeans and React applications and test the banking manegement system. You can run the file as a java application to start the Netbeans application start the React application to ensure that your component is working correctly.
 
 
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
+
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+The system can also be used by bank employees to perform tasks such as opening new accounts, closing accounts, processing deposits and withdrawals, transferring funds, and generating reports. Additionally, the system can provide customers with access to their account information, allowing them to view their balances, transaction history, and perform basic banking tasks such as transferring funds and paying bills online.
+
+Database Design:
+
+The first step in building a bank Management System is to design the database schema. You can use MySQL Workbench to create a database schema that will store information about bank, login, signupone, signuptwo, and more.
+
+By using these technologies, you can create a robust and scalable bank Management System that can handle the needs of employee use. With MySQL for the database,  you can create a powerful system that will help user institutions manage their data data with ease.
+
+
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+MySQL - Database
+IDE - Netbeans
+Software - Java swing
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
+-Create a new branch for your feature or bug fix
+-Make your changes and commit them to your branch
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+-Netbeans 
+-MySQL
+-Java Swing 
